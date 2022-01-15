@@ -4,7 +4,7 @@ local metadata =
 	{
 		format = 'staticLibrary',
 		staticLibs = { 'APDFacebookAudienceAdapter', },
-		frameworks = { 'FBAudienceNetwork', 'FBSDKCoreKit', 'FBSDKCoreKit_Basics', },
+		frameworks = { 'FBSDKCoreKit', 'FBSDKCoreKit_Basics', "FBAudienceNetwork"},
 		frameworksOptional = {},
 	},
 }
