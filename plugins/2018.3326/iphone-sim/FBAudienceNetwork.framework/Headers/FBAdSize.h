@@ -1,4 +1,10 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+/*
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ * All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 #import <UIKit/UIKit.h>
 
@@ -18,7 +24,7 @@ typedef struct FBAdSize FBAdSize;
 /**
   DEPRECATED - Represents the fixed banner ad size - 320pt by 50pt.
  */
-FB_EXPORT FBAdSize const kFBAdSize320x50;
+FB_EXPORT FBAdSize const kFBAdSize320x50 FB_DEPRECATED_WITH_MESSAGE("This adSize is DEPRECATED and will be removed.");
 
 /**
   Represents the flexible banner ad size, where banner width depends on
