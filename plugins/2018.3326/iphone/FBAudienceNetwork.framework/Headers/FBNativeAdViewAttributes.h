@@ -6,7 +6,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#import <FBAudienceNetwork/FBAdDefines.h>
 #import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
@@ -14,8 +13,6 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  Describes the look and feel of a native ad view.
  */
-
-FB_CLASS_EXPORT
 @interface FBNativeAdViewAttributes : NSObject <NSCopying>
 
 /**
