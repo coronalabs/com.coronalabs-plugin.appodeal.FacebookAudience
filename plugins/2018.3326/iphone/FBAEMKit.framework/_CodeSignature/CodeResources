@@ -41,6 +41,10 @@
 	<dict>
 		<key>Headers/FBAEMKit-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4zf532sGeXalpVW5+571AH5HAm4=
+			</data>
 			<key>hash2</key>
 			<data>
 			S+XkUgAnIX9HsxKjEhajisxTEcsmMilxmZPyrKuCxBA=
@@ -48,6 +52,10 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			jIpzsulpmfli0PLQZ881X3f86+w=
+			</data>
 			<key>hash2</key>
 			<data>
 			2uD0lnw+T6Jd0pHhXMKuAg2PP77QPbLIloKG1FIqxYI=
@@ -55,6 +63,10 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			agq0dRMiRRRhBhYFXAWYfMLH4XM=
+			</data>
 			<key>hash2</key>
 			<data>
 			JQD2YAPbbhnu0EoAgszfFtARID5Xwjj9++xC/BZHMk8=
@@ -62,6 +74,10 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			XWt6Wn5P9A035TaMVR1dtbnSV5M=
+			</data>
 			<key>hash2</key>
 			<data>
 			hRqKOqvRufa7361kyALjHvjB5xO638aRbOC5mBTw7HY=
@@ -69,6 +85,10 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			agq0dRMiRRRhBhYFXAWYfMLH4XM=
+			</data>
 			<key>hash2</key>
 			<data>
 			JQD2YAPbbhnu0EoAgszfFtARID5Xwjj9++xC/BZHMk8=
@@ -76,6 +96,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Ci3QIdviXpIzxSC88i1rGvW2cSs=
+			</data>
 			<key>hash2</key>
 			<data>
 			jq+nSulDKiN4tenILjgXg82TzM040TCurYFTCVRKXxM=
@@ -83,6 +107,10 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Fo7sebV/R02g8kqyPtqICO8eVyI=
+			</data>
 			<key>hash2</key>
 			<data>
 			ZFIpWmrSklTJLGaAOPLGos/UQMB82oH4FOmWrCFbhBU=
