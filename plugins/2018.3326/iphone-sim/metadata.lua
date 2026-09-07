@@ -3,10 +3,9 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = {"APDMetaAudienceNetworkAdapter"},
-		frameworks = { 'Accounts', "FBAudienceNetwork", 'FBSDKCoreKit',  'FBSDKLoginKit', 'FBSDKShareKit', 'FBSDKCoreKit_Basics', "FBAEMKit", "Accelerate"},
-		frameworksOptional = {"Network"},
-		delegates = { },
+		staticLibs = { 'AppodealMetaAudienceNetworkAdapter' },
+		frameworks = { 'Accounts', 'FBAudienceNetwork', 'FBSDKCoreKit', 'FBSDKCoreKit_Basics', 'FBAEMKit', 'Accelerate' },
+		frameworksOptional = { 'Network' },
 		usesSwift = true,
 	},
 }
